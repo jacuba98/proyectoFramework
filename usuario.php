@@ -8,7 +8,7 @@
 	  }
     else
     {
-      //alert("Error en Usuario o Contraseña. Intenta de nuevo.")
-	      echo "¡Usuario o contraseña incorrectos!";
+      alert("Error en Usuario o Contraseña. Intenta de nuevo.")
+	    //echo "¡Usuario o contraseña incorrectos!";
 	   }
 ?>
